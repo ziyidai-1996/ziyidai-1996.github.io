@@ -23,3 +23,5 @@ redirect_from:
 {% include_relative includes/6_award.md %}
 
 {% include_relative includes/7_other.md %}
+
+{% include_relative includes/8_industrial.md %}

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/</loc>
+<loc>/_pages/about/</loc>
 </url>
 <url>
 <loc>/_pages/includes/0_introduction/</loc>
@@ -26,6 +26,9 @@
 </url>
 <url>
 <loc>/_pages/includes/7_other/</loc>
+</url>
+<url>
+<loc>/_pages/includes/8_industrial/</loc>
 </url>
 <url>
 <loc>/assets/file/MetroBUX_A_Topology-Based_Visual_Analytics_for_Bus_Operational_Uncertainty_EXploration.pdf</loc>
