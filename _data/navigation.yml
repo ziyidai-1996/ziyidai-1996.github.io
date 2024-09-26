@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "关于"
+    url: "/#about-me"
+
+  - title: "新闻"
+    url: "/#news"
+
+  - title: "工作经历"
+    url: "/#work"
+
+  - title: "教育经历"
+    url: "/#education"
+
+  - title: "研究成果"
+    url: "/#publication"
+
+  - title: "研究基金"
+    url: "/#funding"
+
+  - title: "荣誉奖励"
+    url: "/#award"
+
+  - title: "其他"
+    url: "/#other"
+
