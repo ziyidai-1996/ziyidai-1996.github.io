@@ -23,8 +23,18 @@
         </li>
 	 <li class="news-item">
             <span class="news-date">[2024/09]</span>
-            <span class="news-content">🎉作为人才代表受邀参加“第二届中国济南人才招引大会”，并被济南时报、新黄河等媒体报道</span>
+            <span class="news-content">🎉作为人才代表受邀参加“第二届中国济南人才招引大会”，并被济南日报、济南时报新黄河等媒体报道</span>
         </li>
+	 <li class="news-item">
+            <span class="news-date">[2024/09]</span>
+            <span class="news-content">🎉获得山东省自然科学基金青年基金资助</span>
+        </li>
+	 <li class="news-item">
+            <span class="news-date">[2024/08]</span>
+            <span class="news-content">🎉获得国家自然科学基金青年基金资助</span>
+        </li>
+
+
 
     </ul>
 </div>
