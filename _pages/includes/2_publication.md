@@ -12,9 +12,10 @@
 - Sun, X., **<u>Dai, Z.</u>**, *Zhang, Z.,... & Qian, K. (2021). A self-cleaning intraoral flex-occlusometer based on superhydrophobic capacitive sensors for dental health monitoring. **Journal of Materials Chemistry A**, 9(27), 15282-15293.
 - Chen, G., **<u>Dai, Z.</u>**, Ding, S., Lei, M., Lin, J., Wang, S., ... & Zhou, B. (2022). Realization of integrative hierarchy by in-situ solidification of ‘semi-cured’ microcilia array in candle flame for robust and flexible superhydrophobicity. **Chemical Engineering Journal**, 432, 134400.
 - Ou, H., **<u>Dai, Z.</u>**, Gao, Y., & Zhou, B.. Breathable Fabrics with Robust Superhydrophobicity via In Situ Formation of Hierarchical Surface Morphologies. **ACS Applied Materials & Interfaces**. 2023.
-- Chen, G., **<u>Dai, Z.</u>**, Ji, B., Li, S., Chen, X., Gao, Y., ... & Zhou, B. (2020). Dynamic enrichment of plasmonic hot-spots and analytes on superhydrophobic and magnetically functionalized platform for surface-enhanced Raman scattering. **Sensors and Actuators B: Chemical**, 319, 128297.
+
 
 ## 主要作者文章
+- Chen, G., **<u>Dai, Z.</u>**, Ji, B., Li, S., Chen, X., Gao, Y., ... & Zhou, B. (2020). Dynamic enrichment of plasmonic hot-spots and analytes on superhydrophobic and magnetically functionalized platform for surface-enhanced Raman scattering. **Sensors and Actuators B: Chemical**, 319, 128297.
 - Chen, G., **<u>Dai, Z.</u>**, Li, S., Huang, Y., Xu, Y., She, J., & Zhou, B. (2021). Magnetically responsive film decorated with microcilia for robust and controllable manipulation of droplets. **ACS Applied Materials & Interfaces**, 13(1), 1754-1765.
 - Ding, S., **<u>Dai, Z.</u>**, Chen, G., Lei, M., Song, Q., Gao, Y., ... & Zhou, B. (2022). Regulation of Droplet Rebound Behavior with Contact Time Control on a Flexible and Superhydrophobic Film. **Langmuir**, 38(9), 2942-2953.
 - Ding S, Zhao D, Chen Y, **<u>Dai Z</u>**, Zhao Q, Gao Y, Zhong J, Luo J, Zhou B. Single Channel Based Interference‐Free and Self‐Powered Human–Machine Interactive Interface Using Eigenfrequency‐Dominant Mechanism. **Advanced Science**. 2024 Apr;11(13):2302782.
