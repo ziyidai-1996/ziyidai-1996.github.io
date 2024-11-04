@@ -10,11 +10,11 @@
             <span class="news-content"></span>
         </li> -->
         <li class="news-item">
-            <span class="news-date">[2024/09]</span>
+            <span class="news-date">[2024/10]</span>
             <span class="news-content">🎉获得广东省自然科学基金面上基金资助</span>
         </li>
 	 <li class="news-item">
-            <span class="news-date">[2024/09]</span>
+            <span class="news-date">[2024/10]</span>
             <span class="news-content">🎉获得澳门特别行政区研究生技术研发奖</span>
         </li>
 	 <li class="news-item">
