@@ -11,15 +11,11 @@
         </li> -->
         <li class="news-item">
             <span class="news-date">[2024/09]</span>
-            <span class="news-content">🎉团队“高性能柔性透明纳米银环电极”获得第九届创客中国山东省区域赛二等奖（rank-3）</span>
+            <span class="news-content">🎉获得广东省自然科学基金面上基金资助</span>
         </li>
 	 <li class="news-item">
             <span class="news-date">[2024/09]</span>
-            <span class="news-content">🎉团队“高性能柔性透明纳米银环电极”获得“创赢齐鲁，共创未来”大赛资助</span>
-        </li>
-	 <li class="news-item">
-            <span class="news-date">[2024/09]</span>
-            <span class="news-content">🎉我们的邀请文章被journal of semiconductors接收</span>
+            <span class="news-content">🎉获得澳门特别行政区研究生技术研发奖</span>
         </li>
 	 <li class="news-item">
             <span class="news-date">[2024/09]</span>
