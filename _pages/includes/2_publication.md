@@ -15,6 +15,7 @@
 
 
 ## 主要作者文章
+- Ye, C., Xu, Y., **<u>Dai, Z.</u>**, Zhu, Z., Li, C., & Qian, K. (2024). Artificial mechano-nociceptive system based on transparent ITO/AlN/ITO memristor nociceptor neuron. Applied Physics Letters, 125(21).
 - Chen, G., **<u>Dai, Z.</u>**, Ji, B., Li, S., Chen, X., Gao, Y., ... & Zhou, B. (2020). Dynamic enrichment of plasmonic hot-spots and analytes on superhydrophobic and magnetically functionalized platform for surface-enhanced Raman scattering. **Sensors and Actuators B: Chemical**, 319, 128297.
 - Chen, G., **<u>Dai, Z.</u>**, Li, S., Huang, Y., Xu, Y., She, J., & Zhou, B. (2021). Magnetically responsive film decorated with microcilia for robust and controllable manipulation of droplets. **ACS Applied Materials & Interfaces**, 13(1), 1754-1765.
 - Ding, S., **<u>Dai, Z.</u>**, Chen, G., Lei, M., Song, Q., Gao, Y., ... & Zhou, B. (2022). Regulation of Droplet Rebound Behavior with Contact Time Control on a Flexible and Superhydrophobic Film. **Langmuir**, 38(9), 2942-2953.
